@@ -1,0 +1,40 @@
+* {
+    font-family: "Century Gothic",sans-serif;
+}
+
+#diamond {
+    height: 150px;
+    width: 100px;
+}
+
+#small-diamond {
+    height: 25px;
+    width: 20px;
+}
+
+h1 {
+    color: green;
+    font-family: Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 35px;
+}
+
+h2 {background-color: #018ac050;
+
+}
+
+ul {
+    list-style-type: "♦ ";
+    color: green;
+}
+
+.links {
+    background-color: #018ac0;
+    color: white;
+}
+
+.links a {
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+}
